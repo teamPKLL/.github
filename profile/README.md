@@ -1,3 +1,5 @@
+<img width="800px" src=https://github.com/teamPKLL/.github/blob/main/profile/iPhone%2014%20%26%2015%20Pro%20-%203.jpg/>
+
 # 이 재난 녕
 인하공전 컴정 해커톤 "이 재난 녕"!
 
